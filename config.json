@@ -1,0 +1,15 @@
+{
+  "company": {
+    "name": "Dev Tribhoomi",
+    "display_name": "Dev Tribhoomi POS",
+    "tagline": "Khadhye Udhyog, Kathmandu",
+    "internal_id": "devtribhoomi",
+    "logo_path": ""
+  },
+  "app": {
+    "window_title": "Dev Tribhoomi POS",
+    "data_folder_name": "DevTribhoomiPOS",
+    "practice_folder_name": "DevTribhoomiPOS-Practice",
+    "db_name": "devpos.db"
+  }
+}
