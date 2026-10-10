@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest>=8
+pyinstaller>=6.6
+zxing-cpp>=2.2         # used by tests to check printed barcodes scan
+pillow>=10

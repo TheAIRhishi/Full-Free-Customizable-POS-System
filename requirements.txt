@@ -1,0 +1,7 @@
+# Dev Tribhoomi POS - Python packages (installed by install_windows.bat)
+PySide6>=6.6
+openpyxl>=3.1
+nepali-datetime>=1.0.8
+pyserial>=3.5          # scale, serial cash drawer, pole display
+anthropic>=0.40        # optional AI assistant
+pywin32>=306; sys_platform == "win32"   # cash drawer through the receipt printer
